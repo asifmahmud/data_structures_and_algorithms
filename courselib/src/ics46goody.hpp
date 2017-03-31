@@ -1,0 +1,30 @@
+#ifndef ICS46GOODY_HPP_
+#define ICS46GOODY_HPP_
+
+#include <string>
+#include <iostream>
+#include <vector>
+#include <cstdlib>
+
+namespace ics {
+
+std::vector<std::string> split(const std::string& s, const std::string& pat);
+
+std::string join(const std::vector<std::string>& s, const std::string& pat = "");
+
+std::string prompt_string(std::string prompt,
+                          std::string default_value = "",
+                          std::string allowable[] = NULL);
+
+bool prompt_bool(std::string prompt,
+                 int default_value = 2/*not 0 or 1*/);
+
+int prompt_int(std::string prompt);
+
+void safe_open(std::ifstream& f, const std::string& prompt, const std::string& default_name);
+
+int rand_range(int low, int high);
+
+}
+
+#endif /* ICS46GOODY_HPP_ */

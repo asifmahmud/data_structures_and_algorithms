@@ -1,0 +1,7 @@
+20:09:08 **** Incremental Build of configuration Debug for project program2 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver.o" "..\\src\\driver.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program2.exe "src\\test_set.o" "src\\test_queue.o" "src\\test_priority_queue.o" "src\\driver.o" -lcourselib -lgtest 
+
+20:09:09 Build Finished (took 1s.79ms)
+

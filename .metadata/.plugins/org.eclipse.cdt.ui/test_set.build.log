@@ -1,0 +1,7 @@
+20:55:09 **** Incremental Build of configuration Debug for project test_set ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\test.o" "..\\src\\test.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o test_set.exe "src\\test.o" "src\\driver.o" -lcourselib 
+
+20:55:10 Build Finished (took 555ms)
+

@@ -1,0 +1,13 @@
+17:50:30 **** Rebuild of configuration Debug for project courselib ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_priority_queue.o" "..\\src\\driver_priority_queue.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_stack.o" "..\\src\\driver_stack.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_map.o" "..\\src\\driver_map.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_queue.o" "..\\src\\driver_queue.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\ics_exceptions.o" "..\\src\\ics_exceptions.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_set.o" "..\\src\\driver_set.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\ics46goody.o" "..\\src\\ics46goody.cpp" 
+g++ -shared -o libcourselib.dll "src\\ics_exceptions.o" "src\\ics46goody.o" "src\\driver_stack.o" "src\\driver_set.o" "src\\driver_queue.o" "src\\driver_priority_queue.o" "src\\driver_map.o" 
+
+17:50:35 Build Finished (took 4s.400ms)
+

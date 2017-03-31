@@ -1,0 +1,14 @@
+20:54:31 **** Incremental Build of configuration Debug for project sample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o test.o "..\\test.cpp" 
+..\test.cpp: In function 'int main()':
+..\test.cpp:13:7: warning: unused variable 'i' [-Wunused-variable]
+  auto i = 42;        // i is an int
+       ^
+..\test.cpp:14:7: warning: unused variable 'l' [-Wunused-variable]
+  auto l = 42LL;      // l is an long long
+       ^
+g++ -o sample.exe test.o 
+
+20:54:32 Build Finished (took 585ms)
+

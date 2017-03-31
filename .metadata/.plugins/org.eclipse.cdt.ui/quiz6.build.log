@@ -1,0 +1,7 @@
+21:19:47 **** Rebuild of configuration Debug for project quiz6 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver.o" "..\\src\\driver.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz6.exe "src\\driver.o" -lcourselib 
+
+21:19:48 Build Finished (took 1s.526ms)
+

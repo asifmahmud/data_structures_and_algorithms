@@ -1,0 +1,7 @@
+13:41:59 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+
+13:42:00 Build Finished (took 1s.411ms)
+

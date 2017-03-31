@@ -1,0 +1,2429 @@
+00:17:26 **** Rebuild of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_equivalence.o" "..\\src\\driver_equivalence.cpp" 
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+02:16:32 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+Info: Nothing to build for quiz8
+02:21:31 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+02:22:11 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+02:28:44 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+02:29:57 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+02:30:45 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+02:32:16 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+02:32:29 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+02:33:21 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+02:33:30 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+02:35:21 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+02:38:46 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+02:42:20 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp: In instantiation of 'ics::HashEquivalence<T>::HashEquivalence(int (*)(const T&)) [with T = int]':
+..\src\empirical_equivalence.cpp:29:45:   required from here
+..\src\hash_equivalence.hpp:60:133: error: invalid conversion from 'int (*)(const int&)' to 'std::vector<int>::size_type {aka unsigned int}' [-fpermissive]
+ HashEquivalence<T>::HashEquivalence (int (*ahash)(const T& element)) : hash(ahash), parent(ahash), root_size(ahash), histogram(ahash) {
+                                                                                                                                     ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\vector:64:0,
+                 from C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/ics46goody.hpp:6,
+                 from ..\src\empirical_equivalence.cpp:5:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\stl_vector.h:269:7: error:   initializing argument 1 of 'std::vector<_Tp, _Alloc>::vector(std::vector<_Tp, _Alloc>::size_type, const allocator_type&) [with _Tp = int; _Alloc = std::allocator<int>; std::vector<_Tp, _Alloc>::size_type = unsigned int; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<int>]' [-fpermissive]
+       vector(size_type __n, const allocator_type& __a = allocator_type())
+       ^
+02:42:35 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+02:43:03 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+02:43:19 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+02:43:58 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp: In member function 'void ics::HashEquivalence<T>::show_equivalence() const':
+..\src\hash_equivalence.hpp:226:54: error: no match for 'operator<<' (operand types are 'std::basic_ostream<char>' and 'const std::vector<int>')
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                      ^
+..\src\hash_equivalence.hpp:226:54: note: candidates are:
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\empirical_equivalence.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:108:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::basic_ostream<_CharT, _Traits>::__ostream_type& (*)(std::basic_ostream<_CharT, _Traits>::__ostream_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(__ostream_type& (*__pf)(__ostream_type&))
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:108:7: note:   no known conversion for argument 1 from 'const std::vector<int>' to 'std::basic_ostream<char>::__ostream_type& (*)(std::basic_ostream<char>::__ostream_type&) {aka std::basic_ostream<char>& (*)(std::basic_ostream<char>&)}'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:117:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::basic_ostream<_CharT, _Traits>::__ios_type& (*)(std::basic_ostream<_CharT, _Traits>::__ios_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>; std::basic_ostream<_CharT, _Traits>::__ios_type = std::basic_ios<char>]
+       operator<<(__ios_type& (*__pf)(__ios_type&))
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:117:7: note:   no known conversion for argument 1 from 'const std::vector<int>' to 'std::basic_ostream<char>::__ios_type& (*)(std::basic_ostream<char>::__ios_type&) {aka std::basic_ios<char>& (*)(std::basic_ios<char>&)}'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:127:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::ios_base& (*)(std::ios_base&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(ios_base& (*__pf) (ios_base&))
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:127:7: note:   no known conversion for argument 1 from 'const std::vector<int>' to 'std::ios_base& (*)(std::ios_base&)'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:166:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(long __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:166:7: note:   no known conversion for argument 1 from 'const std::vector<int>' to 'long int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:170:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned long __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:170:7: note:   no known conversion for argument 1 from 'const std::vector<int>' to 'long unsigned int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:174:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(bool) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(bool __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:174:7: note:   no known conversion for argument 1 from 'const std::vector<int>' to 'bool'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:609:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\empirical_equivalence.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:91:5: note: std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(short int) [with _CharT = char; _Traits = std::char_traits<char>]
+     basic_ostream<_CharT, _Traits>::
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:91:5: note:   no known conversion for argument 1 from 'const std::vector<int>' to 'short int'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\empirical_equivalence.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:181:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(short unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned short __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:181:7: note:   no known conversion for argument 1 from 'const std::vector<int>' to 'short unsigned int'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:609:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\empirical_equivalence.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:105:5: note: std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(int) [with _CharT = char; _Traits = std::char_traits<char>]
+     basic_ostream<_CharT, _Traits>::
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:105:5: note:   no known conversion for argument 1 from 'const std::vector<int>' to 'int'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\empirical_equivalence.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:192:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned int __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:192:7: note:   no known conversion for argument 1 from 'const std::vector<int>' to 'unsigned int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:201:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long long int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(long long __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:201:7: note:   no known conversion for argument 1 from 'const std::vector<int>' to 'long long int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:205:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long long unsigned int) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(unsigned long long __n)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:205:7: note:   no known conversion for argument 1 from 'const std::vector<int>' to 'long long unsigned int'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:220:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(double) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(double __f)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:220:7: note:   no known conversion for argument 1 from 'const std::vector<int>' to 'double'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:224:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(float) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(float __f)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:224:7: note:   no known conversion for argument 1 from 'const std::vector<int>' to 'float'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:232:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long double) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(long double __f)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:232:7: note:   no known conversion for argument 1 from 'const std::vector<int>' to 'long double'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:245:7: note: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(const void*) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+       operator<<(const void* __p)
+       ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:245:7: note:   no known conversion for argument 1 from 'const std::vector<int>' to 'const void*'
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:609:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\empirical_equivalence.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:119:5: note: std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(std::basic_ostream<_CharT, _Traits>::__streambuf_type*) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_ostream<_CharT, _Traits>::__streambuf_type = std::basic_streambuf<char>]
+     basic_ostream<_CharT, _Traits>::
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:119:5: note:   no known conversion for argument 1 from 'const std::vector<int>' to 'std::basic_ostream<char>::__streambuf_type* {aka std::basic_streambuf<char>*}'
+In file included from C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/set.hpp:5:0,
+                 from ..\src\empirical_equivalence.cpp:4:
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/iterator.hpp:30:15: note: template<class T2> std::ostream& ics::operator<<(std::ostream&, const ics::Iterator<T2>&)
+ std::ostream& operator << (std::ostream& outs, const Iterator<T2>& s) {
+               ^
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/iterator.hpp:30:15: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const ics::Iterator<T2>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from ..\src\empirical_equivalence.cpp:4:0:
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/set.hpp:52:15: note: template<class T2> std::ostream& ics::operator<<(std::ostream&, const ics::Set<T2>&)
+ std::ostream& operator << (std::ostream& outs, const Set<T2>& s) {
+               ^
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/set.hpp:52:15: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const ics::Set<T2>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from ..\src\empirical_equivalence.cpp:6:0:
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/stopwatch.hpp:78:15: note: std::ostream& ics::operator<<(std::ostream&, const ics::Stopwatch&)
+ std::ostream& operator << (std::ostream& outs, const Stopwatch& s) {
+               ^
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/stopwatch.hpp:78:15: note:   no known conversion for argument 2 from 'const std::vector<int>' to 'const ics::Stopwatch&'
+In file included from ..\src\empirical_equivalence.cpp:10:0:
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/array_set.hpp:288:15: note: template<class T> std::ostream& ics::operator<<(std::ostream&, const ics::ArraySet<T>&)
+ std::ostream& operator << (std::ostream& outs, const ArraySet<T>& s) {
+               ^
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/array_set.hpp:288:15: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const ics::ArraySet<T>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from ..\src\hash_map.hpp:10:0,
+                 from ..\src\hash_equivalence.hpp:6,
+                 from ..\src\empirical_equivalence.cpp:12:
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/pair.hpp:27:15: note: template<class F, class S> std::ostream& ics::operator<<(std::ostream&, const ics::pair<F, S>&)
+ std::ostream& operator << (std::ostream& outs, const pair<F,S>& p){
+               ^
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/pair.hpp:27:15: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const ics::pair<F, S>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from ..\src\hash_map.hpp:11:0,
+                 from ..\src\hash_equivalence.hpp:6,
+                 from ..\src\empirical_equivalence.cpp:12:
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/map.hpp:54:15: note: template<class KEY2, class T2> std::ostream& ics::operator<<(std::ostream&, const ics::Map<KEY2, T2>&)
+ std::ostream& operator << (std::ostream& outs, const Map<KEY2,T2>& m) {
+               ^
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/map.hpp:54:15: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const ics::Map<KEY2, T2>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/array_queue.hpp:10:0,
+                 from ..\src\hash_map.hpp:12,
+                 from ..\src\hash_equivalence.hpp:6,
+                 from ..\src\empirical_equivalence.cpp:12:
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/queue.hpp:44:15: note: template<class T2> std::ostream& ics::operator<<(std::ostream&, const ics::Queue<T2>&)
+ std::ostream& operator << (std::ostream& outs, const Queue<T2>& p) {
+               ^
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/queue.hpp:44:15: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const ics::Queue<T2>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from ..\src\hash_map.hpp:12:0,
+                 from ..\src\hash_equivalence.hpp:6,
+                 from ..\src\empirical_equivalence.cpp:12:
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/array_queue.hpp:228:15: note: template<class T> std::ostream& ics::operator<<(std::ostream&, const ics::ArrayQueue<T>&)
+ std::ostream& operator << (std::ostream& outs, const ArrayQueue<T>& s) {
+               ^
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/array_queue.hpp:228:15: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const ics::ArrayQueue<T>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from ..\src\hash_equivalence.hpp:6:0,
+                 from ..\src\empirical_equivalence.cpp:12:
+..\src\hash_map.hpp:322:15: note: template<class KEY, class T> std::ostream& ics::operator<<(std::ostream&, const ics::HashMap<KEY, T>&)
+ std::ostream& operator << (std::ostream& outs, const HashMap<KEY,T>& m) {
+               ^
+..\src\hash_map.hpp:322:15: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const ics::HashMap<KEY, T>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from ..\src\hash_equivalence.hpp:7:0,
+                 from ..\src\empirical_equivalence.cpp:12:
+..\src\hash_set.hpp:351:15: note: template<class T> std::ostream& ics::operator<<(std::ostream&, const ics::HashSet<T>&)
+ std::ostream& operator << (std::ostream& outs, const HashSet<T>& s) {
+               ^
+..\src\hash_set.hpp:351:15: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const ics::HashSet<T>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:3310:5: note: template<class _RealType, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::piecewise_linear_distribution<_RealType>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:3310:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::piecewise_linear_distribution<_RealType>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:3094:5: note: template<class _RealType, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::piecewise_constant_distribution<_RealType>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:3094:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::piecewise_constant_distribution<_RealType>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:2884:5: note: template<class _IntType, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::discrete_distribution<_IntType>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:2884:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::discrete_distribution<_IntType>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:2425:5: note: template<class _RealType, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::student_t_distribution<_RealType>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:2425:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::student_t_distribution<_RealType>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:2350:5: note: template<class _RealType, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::fisher_f_distribution<_RealType>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:2350:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::fisher_f_distribution<_RealType>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:2186:5: note: template<class _RealType, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::chi_squared_distribution<_RealType>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:2186:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::chi_squared_distribution<_RealType>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:2113:5: note: template<class _RealType, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::lognormal_distribution<_RealType>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:2113:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::lognormal_distribution<_RealType>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:1817:5: note: template<class _IntType, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::binomial_distribution<_IntType>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:1817:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::binomial_distribution<_IntType>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:1552:5: note: template<class _IntType, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::poisson_distribution<_IntType>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:1552:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::poisson_distribution<_IntType>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:1347:5: note: template<class _IntType, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::negative_binomial_distribution<_IntType>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:1347:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::negative_binomial_distribution<_IntType>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:831:5: note: template<class _RandomNumberEngine, unsigned int __k, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::shuffle_order_engine<_RandomNumberEngine, __k>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:831:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::shuffle_order_engine<_RandomNumberEngine, __k>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:702:5: note: template<class _RandomNumberEngine, unsigned int __p, unsigned int __r, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::discard_block_engine<_RandomNumberEngine, __p, __r>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:702:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::discard_block_engine<_RandomNumberEngine, __p, __r>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:632:5: note: template<class _UIntType, unsigned int __w, unsigned int __s, unsigned int __r, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::subtract_with_carry_engine<_UIntType, __w, __s, __r>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:632:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::subtract_with_carry_engine<_UIntType, __w, __s, __r>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:156:5: note: template<class _UIntType, _UIntType __a, _UIntType __c, _UIntType __m, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::linear_congruential_engine<_UIntType, __a, __c, __m>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:156:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::linear_congruential_engine<_UIntType, __a, __c, __m>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:2748:5: note: template<class _RealType, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::extreme_value_distribution<_RealType>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:2748:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::extreme_value_distribution<_RealType>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:2672:5: note: template<class _RealType, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::weibull_distribution<_RealType>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:2672:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::weibull_distribution<_RealType>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:1881:5: note: template<class _RealType, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::exponential_distribution<_RealType>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:1881:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::exponential_distribution<_RealType>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:2594:5: note: template<class _RealType1, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::gamma_distribution<_RealType>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:2594:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::gamma_distribution<_RealType>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:1232:5: note: template<class _IntType, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::geometric_distribution<_IntType>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:1232:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::geometric_distribution<_IntType>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:2048:5: note: template<class _RealType1, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::normal_distribution<_RealType>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:2048:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::normal_distribution<_RealType>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:1150:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::bernoulli_distribution&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:1150:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   cannot convert '((const ics::HashEquivalence<T>*)this)->ics::HashEquivalence<T>::histogram' (type 'const std::vector<int>') to type 'const std::bernoulli_distribution&'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:2273:5: note: template<class _RealType, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::cauchy_distribution<_RealType>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:2273:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::cauchy_distribution<_RealType>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:1088:5: note: template<class _RealType, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::uniform_real_distribution<_IntType>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:1088:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::uniform_real_distribution<_IntType>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:1029:5: note: template<class _IntType, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::uniform_int_distribution<_IntType>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:1029:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::uniform_int_distribution<_IntType>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:52:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:477:5: note: template<class _UIntType1, unsigned int __w1, unsigned int __n1, unsigned int __m1, unsigned int __r1, _UIntType1 __a1, unsigned int __u1, _UIntType1 __d1, unsigned int __s1, _UIntType1 __b1, unsigned int __t1, _UIntType1 __c1, unsigned int __l1, _UIntType1 __f1, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::mersenne_twister_engine<_UIntType, __w, __n, __m, __r, __a, __u, __d, __s, __b, __t, __c, __l, __f>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.tcc:477:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::mersenne_twister_engine<_UIntType, __w, __n, __m, __r, __a, __u, __d, __s, __b, __t, __c, __l, __f>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\random:50:0,
+                 from ..\src\empirical_equivalence.cpp:9:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.h:1277:5: note: template<class _RandomNumberEngine, unsigned int __w, class _UIntType, class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::independent_bits_engine<_RandomNumberEngine, __w, _UIntType>&)
+     operator<<(std::basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\random.h:1277:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::independent_bits_engine<_RandomNumberEngine, __w, _UIntType>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\empirical_equivalence.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:602:5: note: std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&&, const _Tp&) [with _CharT = char; _Traits = std::char_traits<char>; _Tp = std::vector<int>] <near match>
+     operator<<(basic_ostream<_CharT, _Traits>&& __os, const _Tp& __x)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:602:5: note:   no known conversion for argument 1 from 'std::basic_ostream<char>' to 'std::basic_ostream<char>&&'
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:548:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const unsigned char*)
+     operator<<(basic_ostream<char, _Traits>& __out, const unsigned char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:548:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   cannot convert '((const ics::HashEquivalence<T>*)this)->ics::HashEquivalence<T>::histogram' (type 'const std::vector<int>') to type 'const unsigned char*'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\empirical_equivalence.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:543:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const signed char*)
+     operator<<(basic_ostream<char, _Traits>& __out, const signed char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:543:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   cannot convert '((const ics::HashEquivalence<T>*)this)->ics::HashEquivalence<T>::histogram' (type 'const std::vector<int>') to type 'const signed char*'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\empirical_equivalence.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:530:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const char*)
+     operator<<(basic_ostream<char, _Traits>& __out, const char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:530:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   cannot convert '((const ics::HashEquivalence<T>*)this)->ics::HashEquivalence<T>::histogram' (type 'const std::vector<int>') to type 'const char*'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:609:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\empirical_equivalence.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:321:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const char*)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, const char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:321:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   cannot convert '((const ics::HashEquivalence<T>*)this)->ics::HashEquivalence<T>::histogram' (type 'const std::vector<int>') to type 'const char*'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\empirical_equivalence.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:513:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const _CharT*)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, const _CharT* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:513:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   mismatched types 'const _CharT*' and 'std::vector<int>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\empirical_equivalence.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:493:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, unsigned char)
+     operator<<(basic_ostream<char, _Traits>& __out, unsigned char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:493:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   cannot convert '((const ics::HashEquivalence<T>*)this)->ics::HashEquivalence<T>::histogram' (type 'const std::vector<int>') to type 'unsigned char'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\empirical_equivalence.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:488:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, signed char)
+     operator<<(basic_ostream<char, _Traits>& __out, signed char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:488:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   cannot convert '((const ics::HashEquivalence<T>*)this)->ics::HashEquivalence<T>::histogram' (type 'const std::vector<int>') to type 'signed char'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\empirical_equivalence.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:482:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, char)
+     operator<<(basic_ostream<char, _Traits>& __out, char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:482:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   cannot convert '((const ics::HashEquivalence<T>*)this)->ics::HashEquivalence<T>::histogram' (type 'const std::vector<int>') to type 'char'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\empirical_equivalence.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:476:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, char)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:476:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   cannot convert '((const ics::HashEquivalence<T>*)this)->ics::HashEquivalence<T>::histogram' (type 'const std::vector<int>') to type 'char'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\empirical_equivalence.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:471:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, _CharT)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, _CharT __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:471:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   deduced conflicting types for parameter '_CharT' ('char' and 'std::vector<int>')
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\string:52:0,
+                 from ..\src\empirical_equivalence.cpp:1:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\basic_string.h:2753:5: note: template<class _CharT, class _Traits, class _Alloc> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::basic_string<_CharT, _Traits, _Alloc>&)
+     operator<<(basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\basic_string.h:2753:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp:226:57: note:   'const std::vector<int>' is not derived from 'const std::basic_string<_CharT, _Traits, _Alloc>'
+   std::cout << "  Histogram of compress_set sizes: " << histogram          << std::endl;
+                                                         ^
+02:44:46 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp: In member function 'T ics::HashEquivalence<T>::compress_to_root(T)':
+..\src\hash_equivalence.hpp:96:13: error: 'class ics::HashMap<int, int>' has no member named 'push_back'
+   histogram.push_back(compress_set.size());
+             ^
+..\src\hash_equivalence.hpp: In instantiation of 'T ics::HashEquivalence<T>::compress_to_root(T) [with T = int]':
+..\src\hash_equivalence.hpp:126:51:   required from 'bool ics::HashEquivalence<T>::in_same_class(const T&, const T&) [with T = int]'
+..\src\empirical_equivalence.cpp:40:39:   required from here
+..\src\hash_equivalence.hpp:100:9: error: no match for 'operator+=' (operand types are 'int' and 'ics::pair<int, int>')
+    size += x;
+         ^
+02:45:18 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+02:45:58 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+11:17:18 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+11:18:31 **** Incremental Build of configuration Debug for project quiz7 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_equivalence.o" "..\\src\\driver_equivalence.cpp" 
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz7.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+11:22:03 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+11:24:25 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+11:25:24 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+11:26:57 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp: In member function 'void ics::HashEquivalence<T>::show_equivalence() const [with T = int]':
+..\src\hash_equivalence.hpp:227:54: warning: 'siz' may be used uninitialized in this function [-Wmaybe-uninitialized]
+   std::cout << "  Average size                   : " << siz/compress_calls << std::endl;
+                                                      ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+13:31:55 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+In file included from ..\src\empirical_equivalence.cpp:12:0:
+..\src\hash_equivalence.hpp: In instantiation of 'void ics::HashEquivalence<T>::show_equivalence() const [with T = int]':
+..\src\empirical_equivalence.cpp:49:29:   required from here
+..\src\hash_equivalence.hpp:220:6: warning: unused variable 'siz' [-Wunused-variable]
+  int siz;
+      ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+13:32:36 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+13:33:03 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+14:20:25 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+22:43:00 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+In file included from ..\src\driver_graph.cpp:7:0:
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::empty() const':
+..\src\hash_graph.hpp:285:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::node_count() const':
+..\src\hash_graph.hpp:292:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::edge_count() const':
+..\src\hash_graph.hpp:299:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::in_degree(std::string) const':
+..\src\hash_graph.hpp:328:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::out_degree(std::string) const':
+..\src\hash_graph.hpp:336:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::degree(std::string) const':
+..\src\hash_graph.hpp:344:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::out_nodes(std::string) const':
+..\src\hash_graph.hpp:369:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::in_nodes(std::string) const':
+..\src\hash_graph.hpp:379:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::out_edges(std::string) const':
+..\src\hash_graph.hpp:389:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::in_edges(std::string) const':
+..\src\hash_graph.hpp:399:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator==(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:414:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator!=(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:421:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'void ics::HashGraph<T>::add_edge(std::string, std::string, T) [with T = int; std::string = std::basic_string<char>]':
+..\src\driver_graph.cpp:31:22:   required from here
+..\src\hash_graph.hpp:190:3: error: no matching function for call to 'ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >::insert(std::string&)'
+   node_values[destination].in_edges.insert(origin);
+   ^
+..\src\hash_graph.hpp:190:3: note: candidates are:
+In file included from ..\src\hash_graph.hpp:14:0,
+                 from ..\src\driver_graph.cpp:7:
+..\src\hash_set.hpp:195:5: note: int ics::HashSet<T>::insert(const T&) [with T = ics::pair<std::basic_string<char>, std::basic_string<char> >]
+ int HashSet<T>::insert(const T& element) {
+     ^
+..\src\hash_set.hpp:195:5: note:   no known conversion for argument 1 from 'std::string {aka std::basic_string<char>}' to 'const ics::pair<std::basic_string<char>, std::basic_string<char> >&'
+..\src\hash_set.hpp:240:5: note: int ics::HashSet<T>::insert(ics::Iterator<T2>&, const ics::Iterator<T2>&) [with T = ics::pair<std::basic_string<char>, std::basic_string<char> >]
+ int HashSet<T>::insert(ics::Iterator<T>& start, const ics::Iterator<T>& stop) {
+     ^
+..\src\hash_set.hpp:240:5: note:   candidate expects 2 arguments, 1 provided
+In file included from ..\src\driver_graph.cpp:7:0:
+..\src\hash_graph.hpp: In instantiation of 'ics::HashGraph<T>& ics::HashGraph<T>::operator=(const ics::HashGraph<T>&) [with T = int]':
+..\src\driver_graph.cpp:89:9:   required from here
+..\src\hash_graph.hpp:407:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'T ics::HashGraph<T>::edge_value(std::string, std::string) const [with T = int; std::string = std::basic_string<char>]':
+..\src\driver_graph.cpp:115:62:   required from here
+..\src\hash_graph.hpp:320:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<std::basic_string<char>, ics::HashGraph<T>::LocalInfo>& ics::HashGraph<T>::all_nodes() const [with T = int]':
+..\src\hash_graph.hpp:163:27:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:352:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<ics::pair<std::basic_string<char>, std::basic_string<char> >, T>& ics::HashGraph<T>::all_edges() const [with T = int]':
+..\src\hash_graph.hpp:164:27:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:360:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+22:44:31 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+In file included from ..\src\driver_graph.cpp:7:0:
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::empty() const':
+..\src\hash_graph.hpp:285:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::node_count() const':
+..\src\hash_graph.hpp:292:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::edge_count() const':
+..\src\hash_graph.hpp:299:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::in_degree(std::string) const':
+..\src\hash_graph.hpp:328:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::out_degree(std::string) const':
+..\src\hash_graph.hpp:336:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::degree(std::string) const':
+..\src\hash_graph.hpp:344:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::out_nodes(std::string) const':
+..\src\hash_graph.hpp:369:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::in_nodes(std::string) const':
+..\src\hash_graph.hpp:379:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::out_edges(std::string) const':
+..\src\hash_graph.hpp:389:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::in_edges(std::string) const':
+..\src\hash_graph.hpp:399:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator==(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:414:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator!=(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:421:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'ics::HashGraph<T>& ics::HashGraph<T>::operator=(const ics::HashGraph<T>&) [with T = int]':
+..\src\driver_graph.cpp:89:9:   required from here
+..\src\hash_graph.hpp:407:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'T ics::HashGraph<T>::edge_value(std::string, std::string) const [with T = int; std::string = std::basic_string<char>]':
+..\src\driver_graph.cpp:115:62:   required from here
+..\src\hash_graph.hpp:320:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<std::basic_string<char>, ics::HashGraph<T>::LocalInfo>& ics::HashGraph<T>::all_nodes() const [with T = int]':
+..\src\hash_graph.hpp:163:27:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:352:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<ics::pair<std::basic_string<char>, std::basic_string<char> >, T>& ics::HashGraph<T>::all_edges() const [with T = int]':
+..\src\hash_graph.hpp:164:27:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:360:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+23:43:17 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+In file included from ..\src\driver_graph.cpp:7:0:
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::empty() const':
+..\src\hash_graph.hpp:285:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::node_count() const':
+..\src\hash_graph.hpp:292:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::edge_count() const':
+..\src\hash_graph.hpp:299:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::in_degree(std::string) const':
+..\src\hash_graph.hpp:328:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::out_degree(std::string) const':
+..\src\hash_graph.hpp:336:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::degree(std::string) const':
+..\src\hash_graph.hpp:344:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::out_nodes(std::string) const':
+..\src\hash_graph.hpp:369:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::in_nodes(std::string) const':
+..\src\hash_graph.hpp:379:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::out_edges(std::string) const':
+..\src\hash_graph.hpp:389:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::in_edges(std::string) const':
+..\src\hash_graph.hpp:399:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator==(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:414:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator!=(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:421:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'ics::HashGraph<T>& ics::HashGraph<T>::operator=(const ics::HashGraph<T>&) [with T = int]':
+..\src\driver_graph.cpp:89:9:   required from here
+..\src\hash_graph.hpp:407:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'T ics::HashGraph<T>::edge_value(std::string, std::string) const [with T = int; std::string = std::basic_string<char>]':
+..\src\driver_graph.cpp:115:62:   required from here
+..\src\hash_graph.hpp:320:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<std::basic_string<char>, ics::HashGraph<T>::LocalInfo>& ics::HashGraph<T>::all_nodes() const [with T = int]':
+..\src\hash_graph.hpp:163:27:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:352:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<ics::pair<std::basic_string<char>, std::basic_string<char> >, T>& ics::HashGraph<T>::all_edges() const [with T = int]':
+..\src\hash_graph.hpp:164:27:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:360:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+Info: Nothing to build for program5
+23:46:25 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+In file included from ..\src\driver_graph.cpp:7:0:
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::node_count() const':
+..\src\hash_graph.hpp:292:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::edge_count() const':
+..\src\hash_graph.hpp:299:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::in_degree(std::string) const':
+..\src\hash_graph.hpp:328:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::out_degree(std::string) const':
+..\src\hash_graph.hpp:336:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::degree(std::string) const':
+..\src\hash_graph.hpp:344:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::out_nodes(std::string) const':
+..\src\hash_graph.hpp:369:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::in_nodes(std::string) const':
+..\src\hash_graph.hpp:379:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::out_edges(std::string) const':
+..\src\hash_graph.hpp:389:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::in_edges(std::string) const':
+..\src\hash_graph.hpp:399:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator==(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:414:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator!=(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:421:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'ics::HashGraph<T>& ics::HashGraph<T>::operator=(const ics::HashGraph<T>&) [with T = int]':
+..\src\driver_graph.cpp:89:9:   required from here
+..\src\hash_graph.hpp:407:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'T ics::HashGraph<T>::edge_value(std::string, std::string) const [with T = int; std::string = std::basic_string<char>]':
+..\src\driver_graph.cpp:115:62:   required from here
+..\src\hash_graph.hpp:320:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<std::basic_string<char>, ics::HashGraph<T>::LocalInfo>& ics::HashGraph<T>::all_nodes() const [with T = int]':
+..\src\hash_graph.hpp:163:27:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:352:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<ics::pair<std::basic_string<char>, std::basic_string<char> >, T>& ics::HashGraph<T>::all_edges() const [with T = int]':
+..\src\hash_graph.hpp:164:27:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:360:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+23:50:58 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+In file included from ..\src\driver_graph.cpp:7:0:
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::node_count() const':
+..\src\hash_graph.hpp:274:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::edge_count() const':
+..\src\hash_graph.hpp:281:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::in_degree(std::string) const':
+..\src\hash_graph.hpp:310:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::out_degree(std::string) const':
+..\src\hash_graph.hpp:318:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::degree(std::string) const':
+..\src\hash_graph.hpp:326:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::out_nodes(std::string) const':
+..\src\hash_graph.hpp:351:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::in_nodes(std::string) const':
+..\src\hash_graph.hpp:361:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::out_edges(std::string) const':
+..\src\hash_graph.hpp:371:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::in_edges(std::string) const':
+..\src\hash_graph.hpp:381:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator==(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:396:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator!=(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:403:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'ics::HashGraph<T>& ics::HashGraph<T>::operator=(const ics::HashGraph<T>&) [with T = int]':
+..\src\driver_graph.cpp:89:9:   required from here
+..\src\hash_graph.hpp:389:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'T ics::HashGraph<T>::edge_value(std::string, std::string) const [with T = int; std::string = std::basic_string<char>]':
+..\src\driver_graph.cpp:115:62:   required from here
+..\src\hash_graph.hpp:302:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<std::basic_string<char>, ics::HashGraph<T>::LocalInfo>& ics::HashGraph<T>::all_nodes() const [with T = int]':
+..\src\hash_graph.hpp:163:27:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:334:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<ics::pair<std::basic_string<char>, std::basic_string<char> >, T>& ics::HashGraph<T>::all_edges() const [with T = int]':
+..\src\hash_graph.hpp:164:27:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:342:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+00:03:34 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+In file included from ..\src\driver_graph.cpp:7:0:
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::node_count() const':
+..\src\hash_graph.hpp:275:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::edge_count() const':
+..\src\hash_graph.hpp:282:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::in_degree(std::string) const':
+..\src\hash_graph.hpp:311:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::out_degree(std::string) const':
+..\src\hash_graph.hpp:319:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::degree(std::string) const':
+..\src\hash_graph.hpp:327:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::out_nodes(std::string) const':
+..\src\hash_graph.hpp:352:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::in_nodes(std::string) const':
+..\src\hash_graph.hpp:362:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::out_edges(std::string) const':
+..\src\hash_graph.hpp:372:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::in_edges(std::string) const':
+..\src\hash_graph.hpp:382:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator==(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:397:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator!=(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:404:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'ics::HashGraph<T>& ics::HashGraph<T>::operator=(const ics::HashGraph<T>&) [with T = int]':
+..\src\driver_graph.cpp:89:9:   required from here
+..\src\hash_graph.hpp:390:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'T ics::HashGraph<T>::edge_value(std::string, std::string) const [with T = int; std::string = std::basic_string<char>]':
+..\src\driver_graph.cpp:115:62:   required from here
+..\src\hash_graph.hpp:303:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<std::basic_string<char>, ics::HashGraph<T>::LocalInfo>& ics::HashGraph<T>::all_nodes() const [with T = int]':
+..\src\hash_graph.hpp:163:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:335:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<ics::pair<std::basic_string<char>, std::basic_string<char> >, T>& ics::HashGraph<T>::all_edges() const [with T = int]':
+..\src\hash_graph.hpp:164:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:343:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+00:13:16 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+In file included from ..\src\driver_graph.cpp:7:0:
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::node_count() const':
+..\src\hash_graph.hpp:285:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::edge_count() const':
+..\src\hash_graph.hpp:292:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::in_degree(std::string) const':
+..\src\hash_graph.hpp:321:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::out_degree(std::string) const':
+..\src\hash_graph.hpp:329:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::degree(std::string) const':
+..\src\hash_graph.hpp:337:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::out_nodes(std::string) const':
+..\src\hash_graph.hpp:362:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::in_nodes(std::string) const':
+..\src\hash_graph.hpp:372:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::out_edges(std::string) const':
+..\src\hash_graph.hpp:382:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::in_edges(std::string) const':
+..\src\hash_graph.hpp:392:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator==(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:407:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator!=(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:414:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'ics::HashGraph<T>& ics::HashGraph<T>::operator=(const ics::HashGraph<T>&) [with T = int]':
+..\src\driver_graph.cpp:89:9:   required from here
+..\src\hash_graph.hpp:400:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'T ics::HashGraph<T>::edge_value(std::string, std::string) const [with T = int; std::string = std::basic_string<char>]':
+..\src\driver_graph.cpp:115:62:   required from here
+..\src\hash_graph.hpp:313:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'void ics::HashGraph<T>::load(std::ifstream&, std::string) [with T = int; std::ifstream = std::basic_ifstream<char>; std::string = std::basic_string<char>]':
+..\src\driver_graph.cpp:149:31:   required from here
+..\src\hash_graph.hpp:260:31: error: no matching function for call to 'ics::HashGraph<int>::add_edge(__gnu_cxx::__alloc_traits<std::allocator<std::basic_string<char> > >::value_type&, __gnu_cxx::__alloc_traits<std::allocator<std::basic_string<char> > >::value_type&, __gnu_cxx::__alloc_traits<std::allocator<std::basic_string<char> > >::value_type&)'
+   add_edge(vs[0], vs[1], vs[2]);
+                               ^
+..\src\hash_graph.hpp:260:31: note: candidate is:
+..\src\hash_graph.hpp:184:6: note: void ics::HashGraph<T>::add_edge(std::string, std::string, T) [with T = int; std::string = std::basic_string<char>]
+ void HashGraph<T>::add_edge (std::string origin, std::string destination, T value) {
+      ^
+..\src\hash_graph.hpp:184:6: note:   no known conversion for argument 3 from '__gnu_cxx::__alloc_traits<std::allocator<std::basic_string<char> > >::value_type {aka std::basic_string<char>}' to 'int'
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<std::basic_string<char>, ics::HashGraph<T>::LocalInfo>& ics::HashGraph<T>::all_nodes() const [with T = int]':
+..\src\hash_graph.hpp:164:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:345:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<ics::pair<std::basic_string<char>, std::basic_string<char> >, T>& ics::HashGraph<T>::all_edges() const [with T = int]':
+..\src\hash_graph.hpp:165:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:353:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+00:21:29 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+In file included from ..\src\driver_graph.cpp:7:0:
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::node_count() const':
+..\src\hash_graph.hpp:288:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::edge_count() const':
+..\src\hash_graph.hpp:295:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::in_degree(std::string) const':
+..\src\hash_graph.hpp:324:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::out_degree(std::string) const':
+..\src\hash_graph.hpp:332:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::degree(std::string) const':
+..\src\hash_graph.hpp:340:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::out_nodes(std::string) const':
+..\src\hash_graph.hpp:365:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::in_nodes(std::string) const':
+..\src\hash_graph.hpp:375:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::out_edges(std::string) const':
+..\src\hash_graph.hpp:385:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::in_edges(std::string) const':
+..\src\hash_graph.hpp:395:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator==(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:410:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator!=(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:417:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'ics::HashGraph<T>& ics::HashGraph<T>::operator=(const ics::HashGraph<T>&) [with T = int]':
+..\src\driver_graph.cpp:89:9:   required from here
+..\src\hash_graph.hpp:403:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'T ics::HashGraph<T>::edge_value(std::string, std::string) const [with T = int; std::string = std::basic_string<char>]':
+..\src\driver_graph.cpp:115:62:   required from here
+..\src\hash_graph.hpp:316:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<std::basic_string<char>, ics::HashGraph<T>::LocalInfo>& ics::HashGraph<T>::all_nodes() const [with T = int]':
+..\src\hash_graph.hpp:164:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:348:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<ics::pair<std::basic_string<char>, std::basic_string<char> >, T>& ics::HashGraph<T>::all_edges() const [with T = int]':
+..\src\hash_graph.hpp:165:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:356:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+00:23:08 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+In file included from ..\src\driver_graph.cpp:7:0:
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::node_count() const':
+..\src\hash_graph.hpp:289:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::edge_count() const':
+..\src\hash_graph.hpp:296:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::in_degree(std::string) const':
+..\src\hash_graph.hpp:325:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::out_degree(std::string) const':
+..\src\hash_graph.hpp:333:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::degree(std::string) const':
+..\src\hash_graph.hpp:341:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::out_nodes(std::string) const':
+..\src\hash_graph.hpp:366:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::in_nodes(std::string) const':
+..\src\hash_graph.hpp:376:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::out_edges(std::string) const':
+..\src\hash_graph.hpp:386:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::in_edges(std::string) const':
+..\src\hash_graph.hpp:396:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator==(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:411:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator!=(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:418:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'ics::HashGraph<T>& ics::HashGraph<T>::operator=(const ics::HashGraph<T>&) [with T = int]':
+..\src\driver_graph.cpp:89:9:   required from here
+..\src\hash_graph.hpp:404:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'T ics::HashGraph<T>::edge_value(std::string, std::string) const [with T = int; std::string = std::basic_string<char>]':
+..\src\driver_graph.cpp:115:62:   required from here
+..\src\hash_graph.hpp:317:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<std::basic_string<char>, ics::HashGraph<T>::LocalInfo>& ics::HashGraph<T>::all_nodes() const [with T = int]':
+..\src\hash_graph.hpp:164:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:349:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<ics::pair<std::basic_string<char>, std::basic_string<char> >, T>& ics::HashGraph<T>::all_edges() const [with T = int]':
+..\src\hash_graph.hpp:165:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:357:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+00:23:38 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+In file included from ..\src\driver_graph.cpp:7:0:
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::node_count() const':
+..\src\hash_graph.hpp:289:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::edge_count() const':
+..\src\hash_graph.hpp:296:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::in_degree(std::string) const':
+..\src\hash_graph.hpp:325:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::out_degree(std::string) const':
+..\src\hash_graph.hpp:333:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::degree(std::string) const':
+..\src\hash_graph.hpp:341:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::out_nodes(std::string) const':
+..\src\hash_graph.hpp:366:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::in_nodes(std::string) const':
+..\src\hash_graph.hpp:376:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::out_edges(std::string) const':
+..\src\hash_graph.hpp:386:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::in_edges(std::string) const':
+..\src\hash_graph.hpp:396:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator==(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:411:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator!=(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:418:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'ics::HashGraph<T>& ics::HashGraph<T>::operator=(const ics::HashGraph<T>&) [with T = int]':
+..\src\driver_graph.cpp:89:9:   required from here
+..\src\hash_graph.hpp:404:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'T ics::HashGraph<T>::edge_value(std::string, std::string) const [with T = int; std::string = std::basic_string<char>]':
+..\src\driver_graph.cpp:115:62:   required from here
+..\src\hash_graph.hpp:317:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<std::basic_string<char>, ics::HashGraph<T>::LocalInfo>& ics::HashGraph<T>::all_nodes() const [with T = int]':
+..\src\hash_graph.hpp:164:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:349:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<ics::pair<std::basic_string<char>, std::basic_string<char> >, T>& ics::HashGraph<T>::all_edges() const [with T = int]':
+..\src\hash_graph.hpp:165:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:357:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+00:23:56 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+In file included from ..\src\driver_graph.cpp:7:0:
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::node_count() const':
+..\src\hash_graph.hpp:290:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::edge_count() const':
+..\src\hash_graph.hpp:297:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::in_degree(std::string) const':
+..\src\hash_graph.hpp:326:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::out_degree(std::string) const':
+..\src\hash_graph.hpp:334:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::degree(std::string) const':
+..\src\hash_graph.hpp:342:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::out_nodes(std::string) const':
+..\src\hash_graph.hpp:367:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::in_nodes(std::string) const':
+..\src\hash_graph.hpp:377:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::out_edges(std::string) const':
+..\src\hash_graph.hpp:387:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::in_edges(std::string) const':
+..\src\hash_graph.hpp:397:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator==(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:412:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator!=(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:419:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'ics::HashGraph<T>& ics::HashGraph<T>::operator=(const ics::HashGraph<T>&) [with T = int]':
+..\src\driver_graph.cpp:89:9:   required from here
+..\src\hash_graph.hpp:405:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'T ics::HashGraph<T>::edge_value(std::string, std::string) const [with T = int; std::string = std::basic_string<char>]':
+..\src\driver_graph.cpp:115:62:   required from here
+..\src\hash_graph.hpp:318:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<std::basic_string<char>, ics::HashGraph<T>::LocalInfo>& ics::HashGraph<T>::all_nodes() const [with T = int]':
+..\src\hash_graph.hpp:164:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:350:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<ics::pair<std::basic_string<char>, std::basic_string<char> >, T>& ics::HashGraph<T>::all_edges() const [with T = int]':
+..\src\hash_graph.hpp:165:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:358:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+00:24:18 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+In file included from ..\src\driver_graph.cpp:7:0:
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::node_count() const':
+..\src\hash_graph.hpp:291:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::edge_count() const':
+..\src\hash_graph.hpp:298:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::in_degree(std::string) const':
+..\src\hash_graph.hpp:327:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::out_degree(std::string) const':
+..\src\hash_graph.hpp:335:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::degree(std::string) const':
+..\src\hash_graph.hpp:343:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::out_nodes(std::string) const':
+..\src\hash_graph.hpp:368:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::in_nodes(std::string) const':
+..\src\hash_graph.hpp:378:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::out_edges(std::string) const':
+..\src\hash_graph.hpp:388:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::in_edges(std::string) const':
+..\src\hash_graph.hpp:398:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator==(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:413:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator!=(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:420:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'ics::HashGraph<T>& ics::HashGraph<T>::operator=(const ics::HashGraph<T>&) [with T = int]':
+..\src\driver_graph.cpp:89:9:   required from here
+..\src\hash_graph.hpp:406:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'T ics::HashGraph<T>::edge_value(std::string, std::string) const [with T = int; std::string = std::basic_string<char>]':
+..\src\driver_graph.cpp:115:62:   required from here
+..\src\hash_graph.hpp:319:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<std::basic_string<char>, ics::HashGraph<T>::LocalInfo>& ics::HashGraph<T>::all_nodes() const [with T = int]':
+..\src\hash_graph.hpp:164:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:351:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<ics::pair<std::basic_string<char>, std::basic_string<char> >, T>& ics::HashGraph<T>::all_edges() const [with T = int]':
+..\src\hash_graph.hpp:165:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:359:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+00:25:47 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+In file included from ..\src\driver_graph.cpp:7:0:
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::node_count() const':
+..\src\hash_graph.hpp:289:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::edge_count() const':
+..\src\hash_graph.hpp:296:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::in_degree(std::string) const':
+..\src\hash_graph.hpp:325:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::out_degree(std::string) const':
+..\src\hash_graph.hpp:333:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::degree(std::string) const':
+..\src\hash_graph.hpp:341:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::out_nodes(std::string) const':
+..\src\hash_graph.hpp:366:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::in_nodes(std::string) const':
+..\src\hash_graph.hpp:376:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::out_edges(std::string) const':
+..\src\hash_graph.hpp:386:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::in_edges(std::string) const':
+..\src\hash_graph.hpp:396:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator==(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:411:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator!=(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:418:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'ics::HashGraph<T>& ics::HashGraph<T>::operator=(const ics::HashGraph<T>&) [with T = int]':
+..\src\driver_graph.cpp:89:9:   required from here
+..\src\hash_graph.hpp:404:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'T ics::HashGraph<T>::edge_value(std::string, std::string) const [with T = int; std::string = std::basic_string<char>]':
+..\src\driver_graph.cpp:115:62:   required from here
+..\src\hash_graph.hpp:317:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<std::basic_string<char>, ics::HashGraph<T>::LocalInfo>& ics::HashGraph<T>::all_nodes() const [with T = int]':
+..\src\hash_graph.hpp:164:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:349:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<ics::pair<std::basic_string<char>, std::basic_string<char> >, T>& ics::HashGraph<T>::all_edges() const [with T = int]':
+..\src\hash_graph.hpp:165:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:357:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+00:27:38 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+In file included from ..\src\driver_graph.cpp:7:0:
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::node_count() const':
+..\src\hash_graph.hpp:290:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::edge_count() const':
+..\src\hash_graph.hpp:297:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::in_degree(std::string) const':
+..\src\hash_graph.hpp:326:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::out_degree(std::string) const':
+..\src\hash_graph.hpp:334:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::degree(std::string) const':
+..\src\hash_graph.hpp:342:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::out_nodes(std::string) const':
+..\src\hash_graph.hpp:367:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::in_nodes(std::string) const':
+..\src\hash_graph.hpp:377:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::out_edges(std::string) const':
+..\src\hash_graph.hpp:387:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::in_edges(std::string) const':
+..\src\hash_graph.hpp:397:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator==(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:412:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator!=(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:419:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'ics::HashGraph<T>& ics::HashGraph<T>::operator=(const ics::HashGraph<T>&) [with T = int]':
+..\src\driver_graph.cpp:89:9:   required from here
+..\src\hash_graph.hpp:405:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'T ics::HashGraph<T>::edge_value(std::string, std::string) const [with T = int; std::string = std::basic_string<char>]':
+..\src\driver_graph.cpp:115:62:   required from here
+..\src\hash_graph.hpp:318:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<std::basic_string<char>, ics::HashGraph<T>::LocalInfo>& ics::HashGraph<T>::all_nodes() const [with T = int]':
+..\src\hash_graph.hpp:164:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:350:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<ics::pair<std::basic_string<char>, std::basic_string<char> >, T>& ics::HashGraph<T>::all_edges() const [with T = int]':
+..\src\hash_graph.hpp:165:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:358:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+00:28:48 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+In file included from ..\src\driver_graph.cpp:7:0:
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::node_count() const':
+..\src\hash_graph.hpp:289:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::edge_count() const':
+..\src\hash_graph.hpp:296:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::in_degree(std::string) const':
+..\src\hash_graph.hpp:325:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::out_degree(std::string) const':
+..\src\hash_graph.hpp:333:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::degree(std::string) const':
+..\src\hash_graph.hpp:341:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::out_nodes(std::string) const':
+..\src\hash_graph.hpp:366:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::in_nodes(std::string) const':
+..\src\hash_graph.hpp:376:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::out_edges(std::string) const':
+..\src\hash_graph.hpp:386:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::in_edges(std::string) const':
+..\src\hash_graph.hpp:396:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator==(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:411:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator!=(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:418:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'ics::HashGraph<T>& ics::HashGraph<T>::operator=(const ics::HashGraph<T>&) [with T = int]':
+..\src\driver_graph.cpp:89:9:   required from here
+..\src\hash_graph.hpp:404:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'T ics::HashGraph<T>::edge_value(std::string, std::string) const [with T = int; std::string = std::basic_string<char>]':
+..\src\driver_graph.cpp:115:62:   required from here
+..\src\hash_graph.hpp:317:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<std::basic_string<char>, ics::HashGraph<T>::LocalInfo>& ics::HashGraph<T>::all_nodes() const [with T = int]':
+..\src\hash_graph.hpp:164:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:349:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<ics::pair<std::basic_string<char>, std::basic_string<char> >, T>& ics::HashGraph<T>::all_edges() const [with T = int]':
+..\src\hash_graph.hpp:165:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:357:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+19:32:49 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+In file included from ..\src\driver_graph.cpp:7:0:
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::node_count() const':
+..\src\hash_graph.hpp:300:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::edge_count() const':
+..\src\hash_graph.hpp:307:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::in_degree(std::string) const':
+..\src\hash_graph.hpp:336:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::out_degree(std::string) const':
+..\src\hash_graph.hpp:344:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::degree(std::string) const':
+..\src\hash_graph.hpp:352:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::out_nodes(std::string) const':
+..\src\hash_graph.hpp:377:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::in_nodes(std::string) const':
+..\src\hash_graph.hpp:387:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::out_edges(std::string) const':
+..\src\hash_graph.hpp:397:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::in_edges(std::string) const':
+..\src\hash_graph.hpp:407:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator==(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:422:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator!=(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:429:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'ics::HashGraph<T>& ics::HashGraph<T>::operator=(const ics::HashGraph<T>&) [with T = int]':
+..\src\driver_graph.cpp:89:9:   required from here
+..\src\hash_graph.hpp:415:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'T ics::HashGraph<T>::edge_value(std::string, std::string) const [with T = int; std::string = std::basic_string<char>]':
+..\src\driver_graph.cpp:115:62:   required from here
+..\src\hash_graph.hpp:328:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<std::basic_string<char>, ics::HashGraph<T>::LocalInfo>& ics::HashGraph<T>::all_nodes() const [with T = int]':
+..\src\hash_graph.hpp:164:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:360:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<ics::pair<std::basic_string<char>, std::basic_string<char> >, T>& ics::HashGraph<T>::all_edges() const [with T = int]':
+..\src\hash_graph.hpp:165:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:368:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+19:35:56 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+In file included from ..\src\driver_graph.cpp:7:0:
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::in_degree(std::string) const':
+..\src\hash_graph.hpp:336:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::out_degree(std::string) const':
+..\src\hash_graph.hpp:344:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'int ics::HashGraph<T>::degree(std::string) const':
+..\src\hash_graph.hpp:352:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::out_nodes(std::string) const':
+..\src\hash_graph.hpp:377:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<std::basic_string<char> >& ics::HashGraph<T>::in_nodes(std::string) const':
+..\src\hash_graph.hpp:387:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::out_edges(std::string) const':
+..\src\hash_graph.hpp:397:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'const ics::HashSet<ics::pair<std::basic_string<char>, std::basic_string<char> > >& ics::HashGraph<T>::in_edges(std::string) const':
+..\src\hash_graph.hpp:407:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator==(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:422:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In member function 'bool ics::HashGraph<T>::operator!=(const ics::HashGraph<T>&) const':
+..\src\hash_graph.hpp:429:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'ics::HashGraph<T>& ics::HashGraph<T>::operator=(const ics::HashGraph<T>&) [with T = int]':
+..\src\driver_graph.cpp:89:9:   required from here
+..\src\hash_graph.hpp:415:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'T ics::HashGraph<T>::edge_value(std::string, std::string) const [with T = int; std::string = std::basic_string<char>]':
+..\src\driver_graph.cpp:115:62:   required from here
+..\src\hash_graph.hpp:328:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<std::basic_string<char>, ics::HashGraph<T>::LocalInfo>& ics::HashGraph<T>::all_nodes() const [with T = int]':
+..\src\hash_graph.hpp:164:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:360:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\hash_graph.hpp: In instantiation of 'const ics::HashMap<ics::pair<std::basic_string<char>, std::basic_string<char> >, T>& ics::HashGraph<T>::all_edges() const [with T = int]':
+..\src\hash_graph.hpp:165:28:   required from 'ics::HashGraph<T>::HashGraph(ics::HashGraph<T>&) [with T = int]'
+..\src\driver_graph.cpp:88:49:   required from here
+..\src\hash_graph.hpp:368:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+20:06:44 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+In file included from ..\src\driver_graph.cpp:7:0:
+..\src\hash_graph.hpp: In instantiation of 'ics::HashGraph<T>& ics::HashGraph<T>::operator=(const ics::HashGraph<T>&) [with T = int]':
+..\src\driver_graph.cpp:89:9:   required from here
+..\src\hash_graph.hpp:437:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+Info: Nothing to build for program5
+20:19:38 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\dijkstra.o" "..\\src\\dijkstra.cpp" 
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\test_graph.o" "..\\src\\test_graph.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+20:22:32 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\test_graph.o" "..\\src\\test_graph.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+20:24:42 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\test_graph.o" "..\\src\\test_graph.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+20:25:03 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\test_graph.o" "..\\src\\test_graph.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+20:25:22 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\test_graph.o" "..\\src\\test_graph.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+20:26:49 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\test_graph.o" "..\\src\\test_graph.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+20:27:26 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\test_graph.o" "..\\src\\test_graph.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+23:30:20 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\test_graph.o" "..\\src\\test_graph.cpp" 
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\dijkstra.o" "..\\src\\dijkstra.cpp" 
+In file included from ..\src\dijkstra.cpp:6:0:
+..\src\hash_graph.hpp: In function 'ics::HashMap<std::basic_string<char>, ics::Info> ics::extended_dijkstra(const ics::HashGraph<int>&, std::string)':
+..\src\hash_graph.hpp:136:58: error: 'ics::HashMap<std::basic_string<char>, ics::HashGraph<int>::LocalInfo> ics::HashGraph<int>::node_values' is private
+       ics::HashMap<std::string,LocalInfo>                node_values;
+                                                          ^
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:41:18: error: within this context
+  for (auto i : g.node_values)
+                  ^
+In file included from ..\src\dijkstra.cpp:6:0:
+..\src\hash_graph.hpp:137:58: error: 'ics::HashMap<ics::pair<std::basic_string<char>, std::basic_string<char> >, int> ics::HashGraph<int>::edge_values' is private
+       ics::HashMap<ics::pair<std::string,std::string>,T> edge_values;
+                                                          ^
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:58:32: error: within this context
+     int total_cost = limit + g.edge_values[ics::make_pair(min, i)];
+                                ^
+..\src\dijkstra.hpp: In function 'std::string ics::recover_path(ics::HashMap<std::basic_string<char>, ics::Info>, std::string)':
+..\src\dijkstra.hpp:73:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+23:32:44 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\dijkstra.o" "..\\src\\dijkstra.cpp" 
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp: In function 'std::string ics::recover_path(ics::HashMap<std::basic_string<char>, ics::Info>, std::string)':
+..\src\dijkstra.hpp:75:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+23:34:26 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\dijkstra.o" "..\\src\\dijkstra.cpp" 
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp: In function 'std::string ics::recover_path(ics::HashMap<std::basic_string<char>, ics::Info>, std::string)':
+..\src\dijkstra.hpp:75:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+23:34:41 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\dijkstra.o" "..\\src\\dijkstra.cpp" 
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp: In function 'std::string ics::recover_path(ics::HashMap<std::basic_string<char>, ics::Info>, std::string)':
+..\src\dijkstra.hpp:75:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+23:36:44 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\dijkstra.o" "..\\src\\dijkstra.cpp" 
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp: In function 'std::string ics::recover_path(ics::HashMap<std::basic_string<char>, ics::Info>, std::string)':
+..\src\dijkstra.hpp:75:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+23:39:08 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\dijkstra.o" "..\\src\\dijkstra.cpp" 
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp: In function 'std::string ics::recover_path(ics::HashMap<std::basic_string<char>, ics::Info>, std::string)':
+..\src\dijkstra.hpp:75:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+23:48:21 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\dijkstra.o" "..\\src\\dijkstra.cpp" 
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp: In function 'std::string ics::recover_path(ics::HashMap<std::basic_string<char>, ics::Info>, std::string)':
+..\src\dijkstra.hpp:78:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+23:53:04 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\dijkstra.o" "..\\src\\dijkstra.cpp" 
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp: In function 'std::string ics::recover_path(ics::HashMap<std::basic_string<char>, ics::Info>, std::string)':
+..\src\dijkstra.hpp:75:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+..\src\dijkstra.cpp: In function 'void handle_graph()':
+..\src\dijkstra.cpp:31:2: error: expected ';' before '}' token
+  }
+  ^
+23:53:13 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\dijkstra.o" "..\\src\\dijkstra.cpp" 
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp: In function 'std::string ics::recover_path(ics::HashMap<std::basic_string<char>, ics::Info>, std::string)':
+..\src\dijkstra.hpp:75:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+Info: Nothing to build for program5
+00:16:41 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\dijkstra.o" "..\\src\\dijkstra.cpp" 
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp: In function 'std::string ics::recover_path(ics::HashMap<std::basic_string<char>, ics::Info>, std::string)':
+..\src\dijkstra.hpp:82:7: error: no match for 'operator<<' (operand types are 'std::istringstream {aka std::basic_istringstream<char>}' and 'std::basic_string<char>')
+   iss << stack.pop() << " ";
+       ^
+..\src\dijkstra.hpp:82:7: note: candidates are:
+In file included from ..\src\dijkstra.cpp:6:0:
+..\src\hash_graph.hpp:95:26: note: template<class T2> std::ostream& ics::operator<<(std::ostream&, const ics::HashGraph<T>&)
+     friend std::ostream& operator << (std::ostream& outs, const HashGraph<T2>& g) {
+                          ^
+..\src\hash_graph.hpp:95:26: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   cannot convert 'iss' (type 'std::istringstream {aka std::basic_istringstream<char>}') to type 'std::ostream& {aka std::basic_ostream<char>&}'
+   iss << stack.pop() << " ";
+                    ^
+In file included from ..\src\hash_graph.hpp:16:0,
+                 from ..\src\dijkstra.cpp:6:
+..\src\hash_map.hpp:322:15: note: template<class KEY, class T> std::ostream& ics::operator<<(std::ostream&, const ics::HashMap<KEY, T>&)
+ std::ostream& operator << (std::ostream& outs, const HashMap<KEY,T>& m) {
+               ^
+..\src\hash_map.hpp:322:15: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   cannot convert 'iss' (type 'std::istringstream {aka std::basic_istringstream<char>}') to type 'std::ostream& {aka std::basic_ostream<char>&}'
+   iss << stack.pop() << " ";
+                    ^
+In file included from ..\src\hash_map.hpp:11:0,
+                 from ..\src\hash_graph.hpp:16,
+                 from ..\src\dijkstra.cpp:6:
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/map.hpp:54:15: note: template<class KEY2, class T2> std::ostream& ics::operator<<(std::ostream&, const ics::Map<KEY2, T2>&)
+ std::ostream& operator << (std::ostream& outs, const Map<KEY2,T2>& m) {
+               ^
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/map.hpp:54:15: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   cannot convert 'iss' (type 'std::istringstream {aka std::basic_istringstream<char>}') to type 'std::ostream& {aka std::basic_ostream<char>&}'
+   iss << stack.pop() << " ";
+                    ^
+In file included from ..\src\hash_graph.hpp:15:0,
+                 from ..\src\dijkstra.cpp:6:
+..\src\hash_set.hpp:351:15: note: template<class T> std::ostream& ics::operator<<(std::ostream&, const ics::HashSet<T>&)
+ std::ostream& operator << (std::ostream& outs, const HashSet<T>& s) {
+               ^
+..\src\hash_set.hpp:351:15: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   cannot convert 'iss' (type 'std::istringstream {aka std::basic_istringstream<char>}') to type 'std::ostream& {aka std::basic_ostream<char>&}'
+   iss << stack.pop() << " ";
+                    ^
+In file included from ..\src\hash_set.hpp:11:0,
+                 from ..\src\hash_graph.hpp:15,
+                 from ..\src\dijkstra.cpp:6:
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/set.hpp:52:15: note: template<class T2> std::ostream& ics::operator<<(std::ostream&, const ics::Set<T2>&)
+ std::ostream& operator << (std::ostream& outs, const Set<T2>& s) {
+               ^
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/set.hpp:52:15: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   cannot convert 'iss' (type 'std::istringstream {aka std::basic_istringstream<char>}') to type 'std::ostream& {aka std::basic_ostream<char>&}'
+   iss << stack.pop() << " ";
+                    ^
+In file included from ..\src\hash_graph.hpp:14:0,
+                 from ..\src\dijkstra.cpp:6:
+..\src\heap_priority_queue.hpp:247:15: note: template<class T> std::ostream& ics::operator<<(std::ostream&, const ics::HeapPriorityQueue<T>&)
+ std::ostream& operator << (std::ostream& outs, const HeapPriorityQueue<T>& p) {
+               ^
+..\src\heap_priority_queue.hpp:247:15: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   cannot convert 'iss' (type 'std::istringstream {aka std::basic_istringstream<char>}') to type 'std::ostream& {aka std::basic_ostream<char>&}'
+   iss << stack.pop() << " ";
+                    ^
+In file included from ..\src\heap_priority_queue.hpp:12:0,
+                 from ..\src\hash_graph.hpp:14,
+                 from ..\src\dijkstra.cpp:6:
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/array_stack.hpp:209:15: note: template<class T> std::ostream& ics::operator<<(std::ostream&, const ics::ArrayStack<T>&)
+ std::ostream& operator << (std::ostream& outs, const ArrayStack<T>& s) {
+               ^
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/array_stack.hpp:209:15: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   cannot convert 'iss' (type 'std::istringstream {aka std::basic_istringstream<char>}') to type 'std::ostream& {aka std::basic_ostream<char>&}'
+   iss << stack.pop() << " ";
+                    ^
+In file included from C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/array_stack.hpp:10:0,
+                 from ..\src\heap_priority_queue.hpp:12,
+                 from ..\src\hash_graph.hpp:14,
+                 from ..\src\dijkstra.cpp:6:
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/stack.hpp:43:15: note: template<class T2> std::ostream& ics::operator<<(std::ostream&, const ics::Stack<T2>&)
+ std::ostream& operator << (std::ostream& outs, const Stack<T2>& s) {
+               ^
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/stack.hpp:43:15: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   cannot convert 'iss' (type 'std::istringstream {aka std::basic_istringstream<char>}') to type 'std::ostream& {aka std::basic_ostream<char>&}'
+   iss << stack.pop() << " ";
+                    ^
+In file included from ..\src\heap_priority_queue.hpp:10:0,
+                 from ..\src\hash_graph.hpp:14,
+                 from ..\src\dijkstra.cpp:6:
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/priority_queue.hpp:44:15: note: template<class T2> std::ostream& ics::operator<<(std::ostream&, const ics::PriorityQueue<T2>&)
+ std::ostream& operator << (std::ostream& outs, const PriorityQueue<T2>& q) {
+               ^
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/priority_queue.hpp:44:15: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   cannot convert 'iss' (type 'std::istringstream {aka std::basic_istringstream<char>}') to type 'std::ostream& {aka std::basic_ostream<char>&}'
+   iss << stack.pop() << " ";
+                    ^
+In file included from ..\src\hash_graph.hpp:13:0,
+                 from ..\src\dijkstra.cpp:6:
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/pair.hpp:27:15: note: template<class F, class S> std::ostream& ics::operator<<(std::ostream&, const ics::pair<F, S>&)
+ std::ostream& operator << (std::ostream& outs, const pair<F,S>& p){
+               ^
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/pair.hpp:27:15: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   cannot convert 'iss' (type 'std::istringstream {aka std::basic_istringstream<char>}') to type 'std::ostream& {aka std::basic_ostream<char>&}'
+   iss << stack.pop() << " ";
+                    ^
+In file included from ..\src\dijkstra.cpp:5:0:
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/array_queue.hpp:228:15: note: template<class T> std::ostream& ics::operator<<(std::ostream&, const ics::ArrayQueue<T>&)
+ std::ostream& operator << (std::ostream& outs, const ArrayQueue<T>& s) {
+               ^
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/array_queue.hpp:228:15: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   cannot convert 'iss' (type 'std::istringstream {aka std::basic_istringstream<char>}') to type 'std::ostream& {aka std::basic_ostream<char>&}'
+   iss << stack.pop() << " ";
+                    ^
+In file included from C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/array_queue.hpp:10:0,
+                 from ..\src\dijkstra.cpp:5:
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/queue.hpp:44:15: note: template<class T2> std::ostream& ics::operator<<(std::ostream&, const ics::Queue<T2>&)
+ std::ostream& operator << (std::ostream& outs, const Queue<T2>& p) {
+               ^
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/queue.hpp:44:15: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   cannot convert 'iss' (type 'std::istringstream {aka std::basic_istringstream<char>}') to type 'std::ostream& {aka std::basic_ostream<char>&}'
+   iss << stack.pop() << " ";
+                    ^
+In file included from C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/array_queue.hpp:9:0,
+                 from ..\src\dijkstra.cpp:5:
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/iterator.hpp:30:15: note: template<class T2> std::ostream& ics::operator<<(std::ostream&, const ics::Iterator<T2>&)
+ std::ostream& operator << (std::ostream& outs, const Iterator<T2>& s) {
+               ^
+C:\Users\Asif\Desktop\ICS 46\Workspace\courselib\src/iterator.hpp:30:15: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   cannot convert 'iss' (type 'std::istringstream {aka std::basic_istringstream<char>}') to type 'std::ostream& {aka std::basic_ostream<char>&}'
+   iss << stack.pop() << " ";
+                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\dijkstra.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:602:5: note: template<class _CharT, class _Traits, class _Tp> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&&, const _Tp&)
+     operator<<(basic_ostream<_CharT, _Traits>&& __os, const _Tp& __x)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:602:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   'std::istringstream {aka std::basic_istringstream<char>}' is not derived from 'std::basic_ostream<_CharT, _Traits>'
+   iss << stack.pop() << " ";
+                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\dijkstra.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:548:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const unsigned char*)
+     operator<<(basic_ostream<char, _Traits>& __out, const unsigned char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:548:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   'std::istringstream {aka std::basic_istringstream<char>}' is not derived from 'std::basic_ostream<char, _Traits>'
+   iss << stack.pop() << " ";
+                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\dijkstra.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:543:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const signed char*)
+     operator<<(basic_ostream<char, _Traits>& __out, const signed char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:543:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   'std::istringstream {aka std::basic_istringstream<char>}' is not derived from 'std::basic_ostream<char, _Traits>'
+   iss << stack.pop() << " ";
+                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\dijkstra.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:530:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const char*)
+     operator<<(basic_ostream<char, _Traits>& __out, const char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:530:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   'std::istringstream {aka std::basic_istringstream<char>}' is not derived from 'std::basic_ostream<char, _Traits>'
+   iss << stack.pop() << " ";
+                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:609:0,
+                 from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39,
+                 from ..\src\dijkstra.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:321:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const char*)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, const char* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\ostream.tcc:321:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   'std::istringstream {aka std::basic_istringstream<char>}' is not derived from 'std::basic_ostream<_CharT, _Traits>'
+   iss << stack.pop() << " ";
+                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\dijkstra.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:513:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const _CharT*)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, const _CharT* __s)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:513:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   'std::istringstream {aka std::basic_istringstream<char>}' is not derived from 'std::basic_ostream<_CharT, _Traits>'
+   iss << stack.pop() << " ";
+                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\dijkstra.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:493:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, unsigned char)
+     operator<<(basic_ostream<char, _Traits>& __out, unsigned char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:493:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   'std::istringstream {aka std::basic_istringstream<char>}' is not derived from 'std::basic_ostream<char, _Traits>'
+   iss << stack.pop() << " ";
+                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\dijkstra.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:488:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, signed char)
+     operator<<(basic_ostream<char, _Traits>& __out, signed char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:488:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   'std::istringstream {aka std::basic_istringstream<char>}' is not derived from 'std::basic_ostream<char, _Traits>'
+   iss << stack.pop() << " ";
+                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\dijkstra.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:482:5: note: template<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, char)
+     operator<<(basic_ostream<char, _Traits>& __out, char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:482:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   'std::istringstream {aka std::basic_istringstream<char>}' is not derived from 'std::basic_ostream<char, _Traits>'
+   iss << stack.pop() << " ";
+                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\dijkstra.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:476:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, char)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, char __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:476:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   'std::istringstream {aka std::basic_istringstream<char>}' is not derived from 'std::basic_ostream<_CharT, _Traits>'
+   iss << stack.pop() << " ";
+                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\iostream:39:0,
+                 from ..\src\dijkstra.cpp:2:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:471:5: note: template<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, _CharT)
+     operator<<(basic_ostream<_CharT, _Traits>& __out, _CharT __c)
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\ostream:471:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   'std::istringstream {aka std::basic_istringstream<char>}' is not derived from 'std::basic_ostream<_CharT, _Traits>'
+   iss << stack.pop() << " ";
+                    ^
+In file included from c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\string:52:0,
+                 from ..\src\dijkstra.cpp:1:
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\basic_string.h:2753:5: note: template<class _CharT, class _Traits, class _Alloc> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::basic_string<_CharT, _Traits, _Alloc>&)
+     operator<<(basic_ostream<_CharT, _Traits>& __os,
+     ^
+c:\mingw\lib\gcc\mingw32\4.8.1\include\c++\bits\basic_string.h:2753:5: note:   template argument deduction/substitution failed:
+In file included from ..\src\dijkstra.cpp:7:0:
+..\src\dijkstra.hpp:82:20: note:   'std::istringstream {aka std::basic_istringstream<char>}' is not derived from 'std::basic_ostream<_CharT, _Traits>'
+   iss << stack.pop() << " ";
+                    ^
+00:17:58 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\dijkstra.o" "..\\src\\dijkstra.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+00:19:54 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\dijkstra.o" "..\\src\\dijkstra.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+00:22:47 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\dijkstra.o" "..\\src\\dijkstra.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+13:08:04 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\dijkstra.o" "..\\src\\dijkstra.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+Info: Nothing to build for program5
+13:38:33 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\dijkstra.o" "..\\src\\dijkstra.cpp" 
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+13:39:24 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+13:40:18 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+13:41:59 **** Incremental Build of configuration Debug for project program5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver_graph.o" "..\\src\\driver_graph.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program5.exe "src\\test_graph.o" "src\\driver_graph.o" "src\\dijkstra.o" -lcourselib -lgtest 
+20:52:51 **** Rebuild of configuration Debug for project test_set ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\driver.o" "..\\src\\driver.cpp" 
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\test.o" "..\\src\\test.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o test_set.exe "src\\test.o" "src\\driver.o" -lcourselib 
+20:53:10 **** Incremental Build of configuration Debug for project test_set ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\test.o" "..\\src\\test.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o test_set.exe "src\\test.o" "src\\driver.o" -lcourselib 
+20:53:26 **** Incremental Build of configuration Debug for project test_set ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\test.o" "..\\src\\test.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o test_set.exe "src\\test.o" "src\\driver.o" -lcourselib 
+20:54:01 **** Incremental Build of configuration Debug for project test_set ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\test.o" "..\\src\\test.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o test_set.exe "src\\test.o" "src\\driver.o" -lcourselib 
+20:55:02 **** Incremental Build of configuration Debug for project test_set ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\test.o" "..\\src\\test.cpp" 
+..\src\test.cpp: In function 'void insertion_sort(T*, int)':
+..\src\test.cpp:228:37: error: found ':' in nested-name-specifier, expected '::'
+    std::cout << index_to_move << std:endl;
+                                     ^
+20:55:09 **** Incremental Build of configuration Debug for project test_set ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\test.o" "..\\src\\test.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o test_set.exe "src\\test.o" "src\\driver.o" -lcourselib 
+21:19:47 **** Rebuild of configuration Debug for project quiz6 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver.o" "..\\src\\driver.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz6.exe "src\\driver.o" -lcourselib 

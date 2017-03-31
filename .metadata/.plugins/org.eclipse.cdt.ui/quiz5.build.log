@@ -1,0 +1,7 @@
+22:53:31 **** Incremental Build of configuration Debug for project quiz5 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\driver.o" "..\\src\\driver.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz5.exe "src\\driver.o" -lcourselib 
+
+22:53:33 Build Finished (took 1s.522ms)
+

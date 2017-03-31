@@ -1,0 +1,25 @@
+//#include "driver_priority_queue.hpp"
+//#include "heap_priority_queue.hpp"
+////#include "driver_map.hpp"
+//
+//int main() {
+//  //ics::DriverPriorityQueue d;
+////  ics::DriverMap d;
+//	auto f = [](const std:string& a, const int& b) {return a > b;};
+//	ics::HeapPriorityQueue<int> h(f);
+//
+//	for (int i = 0; i < 20; i++) {
+//		h.enqueue(i);
+//	}
+////	h.enqueue(5);
+////	h.enqueue(10);
+////	h.enqueue(15);
+////	h.enqueue(20);
+////	h.enqueue(4);
+//	std::cout << h << std::endl;
+//	h.dequeue();
+//	h.dequeue();
+//	std::cout << h << std::endl;
+//
+//  return 0;
+//}

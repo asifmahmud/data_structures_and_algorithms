@@ -1,0 +1,13 @@
+13:55:27 **** Incremental Build of configuration Debug for project project0 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\driver_queue.o" "..\\src\\driver_queue.cpp" 
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\linear_array_queue.o" "..\\src\\linear_array_queue.cpp" 
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\driver.o" "..\\src\\driver.cpp" 
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\test_queue.o" "..\\src\\test_queue.cpp" 
+..\src\test_queue.cpp:3:27: fatal error: gtest/gtest.hpp: No such file or directory
+ #include "gtest/gtest.hpp"
+                           ^
+compilation terminated.
+
+13:55:29 Build Finished (took 1s.813ms)
+

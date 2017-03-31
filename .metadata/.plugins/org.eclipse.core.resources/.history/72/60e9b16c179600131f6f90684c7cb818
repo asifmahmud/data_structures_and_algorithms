@@ -1,0 +1,17 @@
+#include "driver_priority_queue.hpp"
+#include "heap_priority_queue.hpp"
+#include "bst_map.hpp"
+//#include "driver_map.hpp"
+
+int main() {
+  //ics::DriverPriorityQueue d;
+  //ics::DriverMap d;
+	ics::BSTMap<int, std::string> m;
+	m.put(1, "a");
+	m.put(2, "b");
+	m.put(3, "c");
+	std::cout << m << std::endl;
+
+
+  return 0;
+}

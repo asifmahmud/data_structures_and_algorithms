@@ -1,0 +1,258 @@
+#include <fstream>
+#include <iostream>
+#include <deque>
+#include <vector>
+#include <iomanip>
+#include <sstream>
+#include <string>
+#include <cmath>
+
+
+template<class T>
+class TN {
+  public:
+    TN ()                        : left(nullptr), right(nullptr){}
+    TN (const TN<T>& tn)         : value(tn.value), left(tn.left), right(tn.right){}
+    TN (T v, TN<T>* l = nullptr,
+             TN<T>* r = nullptr) : value(v), left(l), right(r){}
+
+    T      value;
+    TN<T>* left;
+    TN<T>* right;
+};
+
+template<class T>
+class LN {
+  public:
+    LN ()                        : next(nullptr){}
+    LN (const LN<T>& ln)         : value(ln.value), next(ln.next){}
+    LN (T v, LN<T>* n = nullptr) : value(v), next(n){}
+
+    T      value;
+    LN<T>* next;
+};
+
+template <class T>
+void add(LN<T>* l, T element) {
+	if (l->next == nullptr) {
+		l->next = new LN<T>(element);
+	}
+	else {
+		add(l->next, element);
+	}
+}
+
+template <class T>
+void add_ordered(LN<T>* l, T element) {
+	if (l == nullptr) {
+		l = new LN<T>(element);
+	}
+	else {
+		for (auto i = l; i != nullptr; i=i->next) {
+			if (i->value > element) {
+				i->next = new LN<T>(i->value, i->next);
+				i->value = element;
+				break;
+			}
+			else if (i->next == nullptr && element > i->value) {
+				i->next = new LN<T>(element);
+				break;
+			}
+
+		}
+	}
+}
+
+template <class T>
+void add_i(LN<T>* l, T element) {
+	auto i = l;
+	while (true) {
+		if (i->next == nullptr) {
+			i->next = new LN<T>(element);
+			break;
+		}
+		i = i->next;
+	}
+}
+
+template<class T>
+void insert (TN<T>*& t, T to_insert) {
+  if (t == nullptr)
+    t = new TN<T>(to_insert);    //nullptr implicit for left/right subtrees
+  else
+    if (to_insert < t->value)
+      insert(t->left, to_insert);
+    else if (to_insert > t->value)
+      insert(t->right, to_insert);
+}
+
+template<class T>
+int remove_closest(TN<T>*& t) {
+  if (t->right == nullptr) {
+    int to_return = t->value;
+    TN<T>* to_delete = t;
+    t = t->left;
+    delete to_delete;
+    return to_return;
+  }else
+    return remove_closest(t->right);
+}
+
+template <class T>
+void insert_r(TN<T>* t, T element) {
+	if (t == nullptr) {
+		t = new TN<T>(element);
+	}
+	else if (element > t->value) {
+		insert_r(t->right, element);
+	}
+	else {
+		insert_r(t->left, element);
+	}
+}
+
+template<class T>
+void remove (TN<T>*& t, T to_remove) {
+  if (t == nullptr)
+    return;
+  else
+    if (to_remove == t->value) {
+      if (t->left == nullptr) {
+        TN<T>* to_delete = t;
+        t = t->right;
+        delete to_delete;
+      }else if (t->right == nullptr) {
+        TN<T>* to_delete = t;
+        t = t->left;
+        delete to_delete;
+      }else
+        t->value = remove_closest(t->left);
+    }else
+      remove( (to_remove < t->value ? t->left : t->right), to_remove);
+}
+
+template <class T>
+int size(TN<T>* t) {
+  if (t == nullptr)
+    return 0;
+  else
+    return 1 + size(t->left) + size(t->right);
+}
+
+
+template<class T>
+void print_rotated(TN<T>* t,std::string  indent, std::ostream& outs) {
+  if (t == nullptr)
+    return;
+  else {
+    print_rotated(t->right, indent+"..", outs);
+    outs << indent << t->value << std::endl;
+    print_rotated(t->left, indent+"..", outs);
+  }
+}
+
+
+template<class T>
+std::ostream& operator << (std::ostream& outs, TN<T>* t) {
+  print_rotated(t,"",outs);
+  return outs;
+}
+
+template <class T>
+bool all_less(TN<T>* t, T v) {
+	if (t == nullptr) {
+		return t == nullptr;
+	}
+	else {
+		return (t->value < v && all_less(t->left, v) && all_less(t->right, v));
+	}
+}
+
+template <class T>
+bool all_greater(TN<T>* t, T v) {
+	if (t == nullptr) {
+		std::cout<<"";
+	}
+	else {
+		return (t->value > v && all_greater(t->left, v) && all_greater(t->right, v));
+	}
+}
+
+template <class T>
+bool is_BST (TN<T>* t) {
+	if (t == nullptr) {
+		return t == nullptr;
+	}
+	else {
+		return (all_less(t->left, t->value) &&
+				all_greater(t->right, t->value) &&
+				is_BST(t->left) &&
+				is_BST(t->right));
+	}
+}
+
+template <class T>
+std::ostream& operator << (std::ostream& outs, LN<T>* l){
+	for (auto i = l; i != nullptr; i = i->next) {
+		outs << i->value << "->";
+	}
+	std::cout <<  "nullptr"<< std::endl;
+	return outs;
+}
+
+template <class T>
+void add_ordered_r(LN<T>*& l, T element) {
+	if (l == nullptr || element <= l->value) {
+		l = new LN<T>(element, l);
+	}
+	else {
+		add_ordered_r(l->next, element);
+	}
+}
+
+template <class T>
+void remove_ln(LN<T>*& l, T value) {
+	if (l == nullptr) {
+		return;
+	}
+	else if (l->value == value) {
+		l = l->next;
+	}
+	else {
+		remove_ln(l->next, value);
+	}
+}
+template<class T>
+void insertion_sort(T a[], int length) {
+  for (int index_to_move=0; index_to_move<length; +index_to_move++){
+    for (int i=index_to_move-1; i>=0; --i){
+        if ( a[i] > a[i+1] )
+          std::swap(a[i], a[i+1]);
+        else
+          break;
+    }
+  }
+}
+
+int main() {
+	int a[5]{5, 4, 2, 3, 1};
+	insertion_sort(a, 5);
+	std::cout << a[0] << std::endl;
+  return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

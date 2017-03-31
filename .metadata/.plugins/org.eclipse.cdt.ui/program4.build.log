@@ -1,0 +1,15 @@
+16:09:16 **** Incremental Build of configuration Debug for project program4 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\test_map.o" "..\\src\\test_map.cpp" 
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" "-IC:\\googletest\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\test_set.o" "..\\src\\test_set.cpp" 
+..\src\test_set.cpp: In member function 'virtual void SetTest_large_scale_speed_Test::TestBody()':
+..\src\test_set.cpp:672:16: warning: unused variable 'v' [-Wunused-variable]
+       for (int v : ls)
+                ^
+..\src\test_set.cpp:678:16: warning: unused variable 'v' [-Wunused-variable]
+       for (int v : ls)
+                ^
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" "-LC:\\googletest\\make" -o program4.exe "src\\test_set.o" "src\\test_map.o" "src\\driver.o" -lcourselib -lgtest 
+
+16:09:20 Build Finished (took 3s.923ms)
+

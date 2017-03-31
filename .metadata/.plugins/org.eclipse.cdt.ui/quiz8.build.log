@@ -1,0 +1,7 @@
+14:20:25 **** Incremental Build of configuration Debug for project quiz8 ****
+Info: Internal Builder is used for build
+g++ "-IC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\src" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "src\\empirical_equivalence.o" "..\\src\\empirical_equivalence.cpp" 
+g++ "-LC:\\Users\\Asif\\Desktop\\ICS 46\\Workspace\\courselib\\Debug" -o quiz8.exe "src\\empirical_equivalence.o" "src\\driver_equivalence.o" -lcourselib 
+
+14:20:26 Build Finished (took 986ms)
+
